@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Bachelor of Engineering's Degree in Artificial Intelligence and Data Science...<br>I'm working on Python, Java(OOPs), C...<br>I'm interested in Machine Learning and Data Engineering...<br>I'm eager to contribute in this Tech World...
+I'm currently pursuing Bachelor of Engineering's Degree in Artificial Intelligence and Data Science...<br>I'm working on Python, Java, C, React...<br>I'm interested in Machine Learning and Data Engineering...<br>I'm eager to contribute in this Tech World...
 
 
 # 🌐 Socials:
