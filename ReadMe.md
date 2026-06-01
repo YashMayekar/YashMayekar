@@ -1,8 +1,7 @@
 # 💫 About Me
 
-👋 Hi, I’m **Yash Mayekar** — an **AI & Data Science Engineering student** passionate about building intelligent, production-ready systems.
+👋 Hi, I’m **Yash Mayekar** — an **AI & Data Science Engineer** passionate about building intelligent, production-ready systems.
 
-- 🎓 Pursuing a **Bachelor of Engineering in Artificial Intelligence & Data Science**
 - 🤖 Hands-on experience with **Machine Learning, LLMs, and AI-powered applications**
 - 🧠 Skilled in **model fine-tuning, data preprocessing, and backend API development**
 - 🌐 Experienced in **full-stack development** with modern frameworks
